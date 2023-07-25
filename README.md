@@ -31,5 +31,5 @@ MacOS操作系统用起来确实很舒服，十多年的windows用户转换过�
 体验过三种操作系统后，对于争论谁好用的问题，有了自己的答案。没有标准答案，自己喜欢就好。
 
 ``
-macos是生活，windows是工作，linux是热爱。
+MacOS是生活，Windows是工作，Linux是热爱，Ubuntu是偏爱。
 ``
